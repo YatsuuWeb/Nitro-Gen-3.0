@@ -1,0 +1,5 @@
+pip install pyfade==1.2
+
+Once the file is launched, press enter
+
+Une fois le fichier lancer appuyer sur entrer
